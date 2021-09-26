@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/MyRobo-Friends/static/css/main.71cab853.chunk.css",
-    "main.js": "/MyRobo-Friends/static/js/main.59f30b5f.chunk.js",
-    "main.js.map": "/MyRobo-Friends/static/js/main.59f30b5f.chunk.js.map",
-    "runtime-main.js": "/MyRobo-Friends/static/js/runtime-main.044411eb.js",
-    "runtime-main.js.map": "/MyRobo-Friends/static/js/runtime-main.044411eb.js.map",
-    "static/css/2.c1f4f5f4.chunk.css": "/MyRobo-Friends/static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.81d9f207.chunk.js": "/MyRobo-Friends/static/js/2.81d9f207.chunk.js",
-    "static/js/2.81d9f207.chunk.js.map": "/MyRobo-Friends/static/js/2.81d9f207.chunk.js.map",
-    "static/js/3.271da520.chunk.js": "/MyRobo-Friends/static/js/3.271da520.chunk.js",
-    "static/js/3.271da520.chunk.js.map": "/MyRobo-Friends/static/js/3.271da520.chunk.js.map",
+    "main.css": "/MyRobo-Friends/static/css/main.dd0c7901.chunk.css",
+    "main.js": "/MyRobo-Friends/static/js/main.1eccdd94.chunk.js",
+    "main.js.map": "/MyRobo-Friends/static/js/main.1eccdd94.chunk.js.map",
+    "runtime-main.js": "/MyRobo-Friends/static/js/runtime-main.a0f84b89.js",
+    "runtime-main.js.map": "/MyRobo-Friends/static/js/runtime-main.a0f84b89.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/MyRobo-Friends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f2f539fb.chunk.js": "/MyRobo-Friends/static/js/2.f2f539fb.chunk.js",
+    "static/js/2.f2f539fb.chunk.js.map": "/MyRobo-Friends/static/js/2.f2f539fb.chunk.js.map",
+    "static/js/3.0613ddfe.chunk.js": "/MyRobo-Friends/static/js/3.0613ddfe.chunk.js",
+    "static/js/3.0613ddfe.chunk.js.map": "/MyRobo-Friends/static/js/3.0613ddfe.chunk.js.map",
     "index.html": "/MyRobo-Friends/index.html",
-    "static/css/2.c1f4f5f4.chunk.css.map": "/MyRobo-Friends/static/css/2.c1f4f5f4.chunk.css.map",
-    "static/css/main.71cab853.chunk.css.map": "/MyRobo-Friends/static/css/main.71cab853.chunk.css.map",
-    "static/js/2.81d9f207.chunk.js.LICENSE.txt": "/MyRobo-Friends/static/js/2.81d9f207.chunk.js.LICENSE.txt"
+    "static/css/2.6d7c7915.chunk.css.map": "/MyRobo-Friends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.dd0c7901.chunk.css.map": "/MyRobo-Friends/static/css/main.dd0c7901.chunk.css.map",
+    "static/js/2.f2f539fb.chunk.js.LICENSE.txt": "/MyRobo-Friends/static/js/2.f2f539fb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.044411eb.js",
-    "static/css/2.c1f4f5f4.chunk.css",
-    "static/js/2.81d9f207.chunk.js",
-    "static/css/main.71cab853.chunk.css",
-    "static/js/main.59f30b5f.chunk.js"
+    "static/js/runtime-main.a0f84b89.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.f2f539fb.chunk.js",
+    "static/css/main.dd0c7901.chunk.css",
+    "static/js/main.1eccdd94.chunk.js"
   ]
 }
